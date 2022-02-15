@@ -1,0 +1,20 @@
+/*coded by @Ivandro Neto*/
+/*Default*/
+body{
+	display: flex;
+	justify-items: space-around;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	width: 200px;
+	height: 300px;
+	background-color: black;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+/*===========Desktop========*/
+
+/*===========Mobile========*/
